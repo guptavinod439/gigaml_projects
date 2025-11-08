@@ -1,5 +1,5 @@
 // App.jsx is where we create our React component.
-// For this beginner example, we render a single heading with the text "hello vinod".
+// For this beginner example, we render a single heading with the text "hello giga ".
 
 // Import React to define the component.
 import React from 'react';
@@ -8,8 +8,8 @@ import React from 'react';
 export default function App() {
   return (
     <main style={{ fontFamily: 'sans-serif', textAlign: 'center', marginTop: '20vh' }}>
-      {/* The assignment asked us to display "hello vinod" in a large heading. */}
-      <h1 style={{ fontSize: '4rem', textTransform: 'lowercase' }}>hello vinod</h1>
+      {/* The assignment asked us to display "hello giga " in a large heading. */}
+      <h1 style={{ fontSize: '4rem', textTransform: 'lowercase' }}>hello giga </h1>
     </main>
   );
 }
